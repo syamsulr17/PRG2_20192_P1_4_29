@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.exe
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.deps.json
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.runtimeconfig.json
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.runtimeconfig.dev.json
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.dll
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.pdb
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.AssemblyInfo.cs
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.dll
+C:\Users\user\source\repos\PRG2_20192_P1_4_29\PRG2_20192_P1_4_29\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_29.pdb
